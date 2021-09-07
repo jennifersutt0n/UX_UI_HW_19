@@ -1,0 +1,26 @@
+body {
+     background-color: whitesmoke;
+  }
+  h1 {
+    color: #1F363D;
+  }
+  p {
+    color: black;
+  }
+
+footer {
+    position: bottom;
+    height: 200px;
+    margin-top: -200px;
+}
+
+.flexContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+.workGrid {
+  display: grid;
+}
+
+@media screen {}
